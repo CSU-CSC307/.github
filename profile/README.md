@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
+
 # CSC 307 — Introduction to Software Engineering
 
 Course repositories for **CSC 307: Introduction to Software Engineering** at
